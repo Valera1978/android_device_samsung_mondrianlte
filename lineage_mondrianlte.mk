@@ -28,7 +28,3 @@ PRODUCT_DEVICE := mondrianlte
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_MODEL := SM-T325
-
-PRODUCT_GMS_CLIENTID_BASE := android-samsung
-
-TARGET_VENDOR := Samsung
